@@ -1,8 +1,8 @@
 # MINDSCAPE 1 | WRO - FUTURE ENGINEERS | MINDSCAPE ACADEMY
 
 ## Team Members 🦋:
-Charbel Ghanem
-Marc Zgheib
+Charbel Ghanem <br>
+Marc Zgheib <br>
 Maria Ghanem <br>
 
 <img src="" alt="image error" >
