@@ -10,8 +10,8 @@ Marc Zgheib <br>
 ## Content 🤔:
 | Folder | Content | 
 | -- | -- |
-| [Team Photos](/Team%20Photos)| [Official team photo](/Team%20Photos/Official%20Team%20Photo.jpg), [Funny team photo](/Team%20Photos/Funny%20Team%20Photo.jpg) |
-| [Vehicle Photos](/Vehicle%20Photos) | [Bottom view](/Vehicle%20Photos/bottom.jpg), [front view](/Vehicle%20Photos/front.jpg), [left view](/Vehicle%20Photos/left.jpg), [rear view](/Vehicle%20Photos/rear.jpg), [right view](/Vehicle%20Photos/right.jpg), [top view](/Vehicle%20Photos/top.jpg) |
+| [Team_Photos](Team_Photos)| [Official team photo](/Team%20Photos/Official%20Team%20Photo.jpg), [Funny team photo](/Team%20Photos/Funny%20Team%20Photo.jpg) |
+| [Vehicle_Photos](Vehicle_Photos) | [Bottom view](/Vehicle%20Photos/bottom.jpg), [front view](/Vehicle%20Photos/front.jpg), [left view](/Vehicle%20Photos/left.jpg), [rear view](/Vehicle%20Photos/rear.jpg), [right view](/Vehicle%20Photos/right.jpg), [top view](/Vehicle%20Photos/top.jpg) |
 | [Models](/Models) | [Final base model](/models/base%20v3.stl), [final camera base model](/models/camera%20base.stl), [final camera holder model](/models/camera%20holder%20v5.stl), [expansion board diagram](/models/expansion_board_diagram.png), [final fan holder model](/models/fan%20holder%20v2.stl), [old and unused models (zipped)](/models/old) |
 | [Other](/Other) | [Images used in documentation](other/images-used) |
 | [Schemes](/Schemes) | [Schematic explanations](/scheme/README.md), [expansion board schematic](/schemes/Raspberry%20Pi%20Expansion%20Board%20Schematic.png), [Raspberry Pi schematic](/schemes/Raspberry%20Pi%20Schematic.png), [vehicle schematic](/schemes/Vehicle%20Schematic.png) |
@@ -27,9 +27,9 @@ The self-driving car challenge in this season is a Time Attack race: there will 
 
 ### Open Challenge 🗺️:
 
-<img src='C:\Users\User\OneDrive\Desktop\MINDSCAPE\WRO\Season 2025\Raspberry Pi - Future Engineers\GitHub\MS-WRO2025\Other\Open Challenge Map 1.png' alt='map pick'><br>
+<img src='/Other/Open%20Challenge%20Map_1.jpg' alt='map pick'><br>
 
-<img src="C:\Users\User\OneDrive\Desktop\MINDSCAPE\WRO\Season 2025\Raspberry Pi - Future Engineers\GitHub\MS-WRO2025\Other\Open Challenge Map 2.png" alt='map pick'><br>
+<img src="/Other/Open%20Challenge%20Map_2.jpg" alt='map pick'><br>
 Open Challenge Field
 
 In this challenge, the robot has to drive around the map for 3 laps without any obstacles in the way. Instead, the inner wall of the map varies in size for every round that the robot parcours. This requires the robot to have a dynamic code that is able to recognize the field it is operating in. 
