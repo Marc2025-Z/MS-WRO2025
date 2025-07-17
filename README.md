@@ -43,6 +43,9 @@ Obstacle Challenge Field
 
 To complete the second challenge, the robot must perform 3 full laps around the map with red and green "traffic signs" spread randomly across the canvas whilst driving in the correct lane around each one. In addition, the last block at the end of the second lap determines the direction that the robot continues in for its third lap. If that block was to be red, the robot has to continue in the opposite direction but, if that block was to be green, it continues as it is to then try to parallel park in the designated area at the end of lap 3. Keep in mind that the whole mission should be done without knocking down any of the traffic signs.
 
+## Engineering Materials:
+
+
 ## Assembly Guide:
 ### Software:
 
