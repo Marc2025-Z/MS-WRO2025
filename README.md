@@ -47,7 +47,7 @@ To complete the second challenge, the robot must perform 3 full laps around the 
 
 ### Vehicle Base
 - 3D printed model from scratch<br>
-<img src='' alt='car photo'><br>
+<img src='Vehicle%20Photos/front.jpg' alt='car photo'><br>
 
 - [DC Car Motor](https://dynamic.me/dc-car-motor?search=dc%20motor)<br>
 <img src='Other/used_pictures/DC motor.png' alt='dc pic' height='200'><br>
@@ -116,17 +116,17 @@ To complete the second challenge, the robot must perform 3 full laps around the 
 - Take measurement of the different parts (Raspberry Pi, camera, DC motor, servo motor etc.) <br><br>
 
 **2. 3D Modeling:**<br>
-- Start by designing the [model]() of the chassis and transferring the files to the 3D printer for construction.<br><br>
+- Start by designing the [model](Models) of the chassis and transferring the files to the 3D printer for construction.<br><br>
 
 **3. Chassis Construction:**<br>
 - Obtain the different 3D printed parts of the chassis and glue them tightly together.<br><br>
 
 **4. Add the DC Motor:**<br>
-- Add the motor at the [bottom]() of the robot.
+- Add the motor at the [bottom](Vehicle%20Photos/bottom.jpg) of the robot.
 - Connect the axle with the wheels.<br><br>
 
 **5. Add the Motor Driver:**<br>
-- Place the motor on the front-left corner of the [chassis]()
+- Place the motor on the front-right corner of the [chassis](Vehicle%20Photos/right.jpg)
 - Connect the wires of the DC motor to the OUT1 and OUT2 screws of the driver.<br><br>
 
 **6. Add the Servo Motor:**<br>
@@ -147,7 +147,7 @@ To complete the second challenge, the robot must perform 3 full laps around the 
 - Place the Raspberry Pi in the correct orientation in the middle of the chassis making sure that the wiring can still be done.<br><br>
 
 **10. Add the Power Supply:**<br>
-- Add 3 battery packs around the [rear]() of the chassis.<br><br>
+- Add 3 battery packs around the [rear](Vehicle%20Photos/rear.jpg) of the chassis.<br><br>
 
 **11. Wiring the robot:**<br>
 - Refer to the provided [schematic]() to properly wire the electrical components ensuring everything recieves the correct power supply and voltage.<br><br>
