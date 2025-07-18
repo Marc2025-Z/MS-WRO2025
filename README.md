@@ -5,7 +5,7 @@ Maria Ghanem <br>
 Charbel Ghanem <br>
 Marc Zgheib <br>
 
-<img src="Team%20Photos/Funny%20Team%20Photo.jpg" alt="team image" >
+<img src="Team%20Photos/Funny%20Team%20Photo.jpg" height="500" alt="team image" >
 
 
 ## Content 🤔:
