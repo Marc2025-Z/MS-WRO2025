@@ -59,7 +59,7 @@ To complete the second challenge, the robot must perform 3 full laps around the 
 <img src='Other/used_pictures/Servo Motor.png' alt='servo pic' height='200'><br>
 
 - [8V-35V to 5V 8A Converter](https://ar.aliexpress.com/item/1005006100140233.html?gatewayAdapt=glo2ara)<br>
-<img src='Other/used_pictures/inverter.avif' alt='inverter' height='200'><br>
+<img src='Other/used_pictures/Inverter.avif' alt='inverter' height='200'><br>
 
 - [Sony IMX219 Camera Module 2](https://dynamic.me/raspberry-pi-camera-8-megapixel-original?search=raspberry%20camera)<br>
 <img src='Other/used_pictures/Camera.avif' alt='camera' height='200'><br>
