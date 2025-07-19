@@ -13,9 +13,9 @@ Marc Zgheib <br>
 | -- | -- |
 | [Team Photos](Team%20Photos)| [Official team photo](Team%20Photos/Official%20Team%20Photo.jpg), [Funny team photo](Team%20Photos/Funny%20Team%20Photo.jpg) |
 | [Vehicle Photos](Vehicle%20Photos) | [Bottom view](Vehicle%20Photos/bottom.jpg), [front view](Vehicle%20Photos/front.jpg), [left view](Vehicle%20Photos/left.jpg), [rear view](Vehicle%20Photos/rear.jpg), [right view](Vehicle%20Photos/right.jpg), [top view](Vehicle%20Photos/top.jpg) |
-| [Models](Models) | [Final base model](Models/base%20v3.stl), [final camera base model](Models/camera%20base.stl), [final camera holder model](Models/camera%20holder%20v5.stl), [expansion board diagram](Models/expansion_board_diagram.png), [final fan holder model](Models/fan%20holder%20v2.stl), [old and unused models (zipped)](Models/old) |
+| [Models](Models) | [Final base model](Models/Final_build.jpg), [final camera holder model](Models/Camera_holder.jpg), [base plate](Models/Base_plate.jpg), [steering mechanism](Models/Steering.jpg) |
 | [Other](Other) | [Images used in documentation](Other/used_pictures) |
-| [Schemes](Schemes) | [Schematic explanations](Schemes/README.md), [expansion board schematic](Schemes/Raspberry%20Pi%20Expansion%20Board%20Schematic.png), [Raspberry Pi schematic](Schemes/Raspberry%20Pi%20Schematic.png), [vehicle schematic](Schemes/Vehicle%20Schematic.png) |
+| [Schemes](Schemes) | [General connections schematic](Schemes/scheme.jpg), [camera schematic](Schemes/Camera%20Connection.jpg) |
 | [Src](Src) | [Obstacle challenge final](Src/ObstacleChallenge.py), [open challenge final](Src/OpenChallengeFinal.py), [HSV finder](Src/HSVRange.py), [test files](Src/Tests) |
 | [Video](Video) | [Open challenge](Video/README.md), [obstacle challenge](Video/README.md) |
 
@@ -150,7 +150,7 @@ To complete the second challenge, the robot must perform 3 full laps around the 
 - Add 3 battery packs around the [rear](Vehicle%20Photos/rear.jpg) of the chassis.<br><br>
 
 **11. Wiring the robot:**<br>
-- Refer to the provided [schematic]() to properly wire the electrical components ensuring everything recieves the correct power supply and voltage.<br><br>
+- Refer to the provided [schematic](Schemes/scheme.jpg) to properly wire the electrical components ensuring everything recieves the correct power supply and voltage.<br><br>
 
 **12. Last Inspection:**<br>
 - Make sure that all the components are placed correctly and secured tightly to their positions to avoid anything coming undone during the mission.<br><br>
